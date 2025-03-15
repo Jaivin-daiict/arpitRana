@@ -5,9 +5,6 @@ order: 1
 ---
 
 
-
-# Teaching
-
 ## Academic Year 2024-25
 - **IT205**: Data Structures, Core Course for B.Tech. I Year students
 - **IT549**: Deep Learning, Technical Elective for M.Tech. / B.Tech students
