@@ -4,8 +4,6 @@ icon: fas fa-stream
 order: 4
 ---
 
-	 # Team
-
 ## Research Fellows
 ### Decision Support System for Residential Rooftop Solar
 - **Dhara Shah**
