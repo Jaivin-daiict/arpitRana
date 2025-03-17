@@ -3,7 +3,7 @@ layout: content
 icon: fa-solid fa-book-open
 order: 2
 ---
-##Research Areas
+## Research Areas
 - Recommendation Systems, Machine Learning, Multimodality, and their applications in solving Data-Informed Decision-Making Problems.
 
 ## Conference Papers:
