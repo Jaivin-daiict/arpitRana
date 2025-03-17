@@ -9,27 +9,19 @@ order: 4
 
 - **M.Tech. Students**
   - **Decision Support System for Residential Rooftop Solar**
-    - Ritvik Agrawal
-    - Dhruv Panchal
+    - Ritvik Agrawal, Dhruv Panchal
   - **Ranking Instagram Influencers for Brand Collaboration**
-    - Kshipra Jadav
-    - Lav Panchal
+    - Kshipra Jadav, Lav Panchal
 
 - **B.Tech. Students**
   - **Document AI for Renewable Energy**
-    - Kirtan Soni
-    - Krish Rupapara
-    - Sumukh Patel
+    - Kirtan Soni, Krish Rupapara, Sumukh Patel
 
 - **M.Sc. Data Science Students**
   - **Building Renewable Energy Data Ecosystem for Informed Decision Making**
-    - Ashish Kar
-    - Yashraj Sinh
-    - Devanshi Acharya
-    - Kshiti Mulani
+    - Ashish Kar, Yashraj Sinh, Devanshi Acharya, Kshiti Mulani
   - **Decision Support System for Residential Rooftop Solar**
-    - Heer Choksi
-    - Aruni Saxena
+    - Heer Choksi, Aruni Saxena
 
 ---
 
