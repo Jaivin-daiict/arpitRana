@@ -4,14 +4,13 @@ icon: fas fa-stream
 order: 4
 ---
 - **Research Fellows**
-  -   Dhara Shah
-	    (Decision Support System for Residential Rooftop Solar)
+ - Dhara Shah <br>
+	(Decision Support System for Residential Rooftop Solar)
 
 
 - **M.Tech. Students**
-  - Ritvik Agrawal, Dhruv Panchal 
+  - Ritvik Agrawal, Dhruv Panchal  
     (Decision Support System for Residential Rooftop Solar)
-    - 
   - Kshipra Jadav, Lav Panchal
     (Ranking Instagram Influencers for Brand Collaboration)
 
