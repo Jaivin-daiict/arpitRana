@@ -4,45 +4,43 @@ icon: fas fa-stream
 order: 4
 ---
 - **Research Fellows**
-  - **Decision Support System for Residential Rooftop Solar**
-    - Dhara Shah
+  -   Dhara Shah
+	    (Decision Support System for Residential Rooftop Solar)
+
 
 - **M.Tech. Students**
-  - **Decision Support System for Residential Rooftop Solar**
-    - Ritvik Agrawal, Dhruv Panchal
-  - **Ranking Instagram Influencers for Brand Collaboration**
-    - Kshipra Jadav, Lav Panchal
+  - Ritvik Agrawal, Dhruv Panchal 
+    (Decision Support System for Residential Rooftop Solar)
+    - 
+  - Kshipra Jadav, Lav Panchal
+    (Ranking Instagram Influencers for Brand Collaboration)
 
 - **B.Tech. Students**
-  - **Document AI for Renewable Energy**
-    - Kirtan Soni, Krish Rupapara, Sumukh Patel
+  - Kirtan Soni, Krish Rupapara, Sumukh Patel
+    (Document AI for Renewable Energy)
 
 - **M.Sc. Data Science Students**
-  - **Building Renewable Energy Data Ecosystem for Informed Decision Making**
-    - Ashish Kar, Yashraj Sinh, Devanshi Acharya, Kshiti Mulani
-  - **Decision Support System for Residential Rooftop Solar**
-    - Heer Choksi, Aruni Saxena
+  - Ashish Kar, Yashraj Sinh, Devanshi Acharya, Kshiti Mulani
+    (Building Renewable Energy Data Ecosystem for Informed Decision Making)
+  - Heer Choksi, Aruni Saxena
+    (Decision Support System for Residential Rooftop Solar)
 
 ---
 
 # Former Team Members
 
-- **Unveiling Engagement Dynamics**
-  - Bhawan Bhatt, M.Tech. ICT, 2024-25
-  - Nishith Munjani, M.Tech. ICT, 2024-25
-  - Pratham Patel, M.Tech. ICT, 2024-25
-  - Viraj Prajapati, M.Tech. ICT, 2024-25
+- Bhawan Bhatt,Nishith Munjani,Pratham Patel,Viraj Prajapati | M.Tech. ICT, 2024-25
+  (Unveiling Engagement Dynamics)
 
-- **Denoising Implicit Feedback in Recommendations**
-  - Ayush Hirdani, B.Tech. ICT, 2024-25
+- Ayush Hirdani | B.Tech. ICT, 2024-25 
+  (Denoising Implicit Feedback in Recommendations)
 
-- **Voice Biometric** (in collaboration with Prof. Sujay Kadam)
-  - Akshat Prasad, B.Tech. ICT, 2024-25
-  - Takshay Makadiya, B.Tech. ICT, 2024-25
+- Akshat Prasad,Takshay Makadiya | B.Tech. ICT, 2024-25
+  (Voice Biometric(in collaboration with Prof. Sujay Kadam))
 
-- **Mining Patterns in Stackoverflow Engagement** (in collaboration with Prof. Sourabh Tiwari)
-  - Kashyap Halavadia, B.Tech. M&C, 2023-24
+- Kashyap Halavadia | B.Tech. M&C 2023-24
+  (Mining Patterns in Stackoverflow Engagement (in collaboration with Prof. Sourabh Tiwari))
 
-- **Building Renewable Energy Data Ecosystem for Informed Decision Making**
-  - Anurag Shukla, M.Sc. Data Science, 2024-25
-  - Tanaz Pathan, M.Sc. Data Science, 2024-25
+- Anurag Shukla , Tanaz Pathan | M.Sc. Data Science, 2024-25
+  (Building Renewable Energy Data Ecosystem for Informed Decision Making)
+  
