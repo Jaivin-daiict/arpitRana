@@ -3,9 +3,9 @@ layout: content
 icon: fas fa-stream
 order: 4
 ---
-- **Research Fellows**
- - Dhara Shah <br>
-	(Decision Support System for Residential Rooftop Solar)
+### - Research Fellows
+- **Dhara Shah** <br>
+(Decision Support System for Residential Rooftop Solar)
 
 
 - **M.Tech. Students**
